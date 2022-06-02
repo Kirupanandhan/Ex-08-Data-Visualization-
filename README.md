@@ -128,3 +128,27 @@ plt.show()
 plt.boxplot(x="Sales",data=df)
 plt.show()
 ```
+## Output :
+![op](./s1.png)
+![op](./s2.png)
+![op](./s3.png)
+![op](./s4.png)
+![op](./s5.png)
+![op](./s6.png)
+![op](./s7.png)
+![op](./s8.png)
+![op](./s9.png)
+![op](./s10.png)
+![op](./s11.png)
+![op](./s12.png)
+![op](./s13.png)
+![op](./s14.png)
+![op](./s15.png)
+![op](./s16.png)
+![op](./s17.png)
+![op](./s18.png)
+![op](./s19.png)
+![op](./s20.png)
+
+## Result:
+ Data Visualization on a complex dataset and save the data to a file has been performed.
